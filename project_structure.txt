@@ -1,0 +1,21 @@
+.
+├── client
+│   ├── index.html
+│   ├── main.js
+│   └── modules
+├── config.js
+├── controllers
+│   ├── authController.js
+│   └── postController.js
+├── database
+│   ├── createtables.js
+│   └── schema.js
+├── package-lock.json
+├── package.json
+├── project_structure.txt
+├── routes
+│   ├── authRoutes.js
+│   └── postRoutes.js
+└── server.js
+
+5 directories, 13 files
